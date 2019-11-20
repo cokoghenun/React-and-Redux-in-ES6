@@ -1,8 +1,4 @@
-# NOTE: This repo is archived. 
-
-This repo contains code from the previous version of [Building Applications in React and Redux in ES6](http://www.pluralsight.com/author/cory-house). For the latest code, see the exercise files on the course page on Pluralsight. 
-
-# Starter Kit for [Building Applications in React and Redux in ES6](http://www.pluralsight.com/author/cory-house) on Pluralsight
+ # React and Redux in ES6
 
 ## Get Started
 1. **Install [Node 6](https://nodejs.org)**. Need to run multiple versions of Node? Use [nvm](https://github.com/creationix/nvm) or [nvm-windows](https://github.com/coreybutler/nvm-windows)
