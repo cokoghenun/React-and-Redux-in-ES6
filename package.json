@@ -17,6 +17,7 @@
     "babel-polyfill": "^6.8.0",
     "bootstrap": "3.3.6",
     "jquery": "2.2.3",
+    "prop-types": "^15.7.2",
     "react": "^15.3.2",
     "react-dom": "15.0.2",
     "react-redux": "4.4.5",
@@ -62,7 +63,7 @@
     "rimraf": "2.5.2",
     "style-loader": "0.13.1",
     "url-loader": "0.5.7",
-    "webpack": "1.13.0",
+    "webpack": "^1.13.0",
     "webpack-dev-middleware": "1.6.1",
     "webpack-hot-middleware": "2.10.0"
   },
